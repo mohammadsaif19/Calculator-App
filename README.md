@@ -1,4 +1,5 @@
-# calculator_app
+# Calculator App using Dart and Flutter
+<img src="screenshot/Screenshot_20200629-021047.jpg" width=400>
 
 A new Flutter project.
 
